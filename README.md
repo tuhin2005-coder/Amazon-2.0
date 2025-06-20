@@ -1,0 +1,1 @@
+A modern, Amazon-inspired e-commerce web application built with the latest technologies. This project simulates a realistic online shopping experience with features like user authentication, product listings, cart management, payment integration, and more.
